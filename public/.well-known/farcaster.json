@@ -1,0 +1,32 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0xYOUR_WALLET_ADDRESS_HERE"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Based Vice Toads",
+    "homeUrl": "https://YOUR_DOMAIN.com",
+    "iconUrl": "https://raw.githubusercontent.com/basedhypestyle-sketch/FcPunks/refs/heads/main/public/assets/favicon.ico",
+    "splashImageUrl": "https://YOUR_DOMAIN.com/splash.png",
+    "splashBackgroundColor": "#000000",
+    "subtitle": "Mint Based Vice Toads",
+    "description": "Based Vice Toads new PFPs on Base, stay based.",
+    "screenshotUrls": [
+      "https://YOUR_DOMAIN.com/screenshot1.png",
+      "https://YOUR_DOMAIN.com/screenshot2.png"
+    ],
+    "primaryCategory": "collectibles",
+    "tags": ["PFP", "NFT", "Base", "Toads", "Based"],
+    "heroImageUrl": "https://YOUR_DOMAIN.com/og.png",
+    "tagline": "Stay Based",
+    "ogTitle": "Based Vice Toads — New PFPs on Base",
+    "ogDescription": "Mint Based Vice Toads on Base chain. Join the movement.",
+    "ogImageUrl": "https://YOUR_DOMAIN.com/og.png",
+    "noindex": false
+  }
+}
